@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 - [GTH pseudopotentials](https://github.com/OpenCPMD/GTH-pseudopotentials): Available GTH pseudopotentials (M. Boero)
 - [Quick Tutorial](https://github.com/OpenCPMD/Quick-Tutorial): A quick tutorial about input and output files of CPMD.
 -->
+
+## LaTeX templates
+- [paper_template](https://github.com/ToAmano/paper_template): APS style journal paper template
+- [book_template](https://github.com/ToAmano/book_template): Book template for multi-chapter documents
+
