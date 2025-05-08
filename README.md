@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Public Repositories
+## Scientific Code Development
 - [MLWC](https://github.com/ToAmano/MLWC): main MLWC code
 <!--
 - [Addons](https://github.com/OpenCPMD/Addons): Additional packages part of the CPMD distribution (MIT License)
@@ -28,7 +28,12 @@ Here are some ideas to get you started:
 - [Quick Tutorial](https://github.com/OpenCPMD/Quick-Tutorial): A quick tutorial about input and output files of CPMD.
 -->
 
-## LaTeX templates
+## LaTeX Templates
 - [paper_template](https://github.com/ToAmano/paper_template): APS style journal paper template
 - [book_template](https://github.com/ToAmano/book_template): Book template for multi-chapter documents
+
+## Research Data
+- [PhysRevB.107.094305](https://github.com/ToAmano/TiO2_PRB.107.094305)
+- [PhysRevB.110.165159](https://github.com/ToAmano/PhysRevB.110.165159)
+- [PhysRevB.111.165149](https://github.com/ToAmano/PhysRevB.111.165149)
 
