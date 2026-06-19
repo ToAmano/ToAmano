@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 - [book_template](https://github.com/ToAmano/book_template): Book template for multi-chapter documents
 - [flatexpy](https://github.com/ToAmano/flatexpy): Flattern latex files for a submission-ready single file.
 
+## Small Tools for Scientific Researchers
+- [cellify](https://github.com/ToAmano/cellify): Generator of supercells for DFT calculations.
+
 ## Research Data
 - [PhysRevB.107.094305](https://github.com/ToAmano/TiO2_PRB.107.094305)
 - [PhysRevB.110.165159](https://github.com/ToAmano/PhysRevB.110.165159)
