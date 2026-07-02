@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [HP](https://github.com/ToAmano/ToAmano.github.io)
 
 ## Scientific Code Development
-- [MLWC](https://github.com/ToAmano/MLWC): main MLWC code
+- [MLWC](https://github.com/ToAmano/MLWC): machine learning Wannier Centers code
 <!--
 - [Addons](https://github.com/OpenCPMD/Addons): Additional packages part of the CPMD distribution (MIT License)
 - [Tests](https://github.com/OpenCPMD/Tests): collection of input test files with production defaults (MIT License)
@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 - [Quick Tutorial](https://github.com/OpenCPMD/Quick-Tutorial): A quick tutorial about input and output files of CPMD.
 -->
 
-## LaTeX Templates & Tools
+## LaTeX Templates
 - [paper_template](https://github.com/ToAmano/paper_template): APS style journal paper template
 - [book_template](https://github.com/ToAmano/book_template): Book template for multi-chapter documents
+
+## LaTeX Tools 
 - [flatexpy](https://github.com/ToAmano/flatexpy): Flattern latex files for a submission-ready single file.
 
 ## Small Tools for Scientific Researchers
