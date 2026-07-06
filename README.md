@@ -37,10 +37,13 @@ Here are some ideas to get you started:
 ## LaTeX Tools 
 - [flatexpy](https://github.com/ToAmano/flatexpy): Flattern latex files for a submission-ready single file.
 
-## Small Tools for Scientific Researchers
+## Tools for Scientific Researches
 - [cellify](https://github.com/ToAmano/cellify): Generator of supercells for DFT calculations.
 - [VisualizePhonon](https://github.com/ToAmano/VisualizePhonon): Visualizor of phonon vibrations from VASP POSCAR files.
 - [dft-reporter](https://github.com/ToAmano/dft-reporter): Extract and show important information from DFT outputs.
+
+## Other Tools
+- [elaws-parser](https://github.com/ToAmano/elaws-parser): Parser for Japanese Laws via eGov API
 
 ## Research Data
 - [PhysRevB.107.094305](https://github.com/ToAmano/TiO2_PRB.107.094305)
