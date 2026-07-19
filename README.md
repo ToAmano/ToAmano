@@ -42,11 +42,14 @@ Here are some ideas to get you started:
 - [VisualizePhonon](https://github.com/ToAmano/VisualizePhonon): Visualizor of phonon vibrations from VASP POSCAR files.
 - [dft-reporter](https://github.com/ToAmano/dft-reporter): Extract and show important information from DFT outputs.
 
-## Other Tools
+## Others
 - [elaws-parser](https://github.com/ToAmano/elaws-parser): Parser for Japanese Laws via eGov API
+- [Univ_EntranceExam_Math_Collection](https://github.com/ToAmano/Univ_EntranceExam_Math_Collection): Japanese University Entrance Math solutions.
 
 ## Research Data
 - [PhysRevB.107.094305](https://github.com/ToAmano/TiO2_PRB.107.094305)
 - [PhysRevB.110.165159](https://github.com/ToAmano/PhysRevB.110.165159)
 - [PhysRevB.111.165149](https://github.com/ToAmano/PhysRevB.111.165149)
+
+
 
