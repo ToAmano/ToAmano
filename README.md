@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 - [dft-reporter](https://github.com/ToAmano/dft-reporter): Extract and show important information from DFT outputs.
 
 ## Others
-- [elaws-parser](https://github.com/ToAmano/elaws-parser): Parser for Japanese Laws via eGov API
-- [Univ_EntranceExam_Math_Collection](https://github.com/ToAmano/Univ_EntranceExam_Math_Collection): Japanese University Entrance Math solutions.
+- [elaws-parser](https://github.com/ToAmano/elaws-parser): Parser for Japanese Laws via eGov API (eGov APIのxmlパーサ)
+- [Univ_EntranceExam_Math_Collection](https://github.com/ToAmano/Univ_EntranceExam_Math_Collection): Japanese University Entrance Math solutions. (東大/京大/東工大の入試数学過去問解答)
 
 ## Research Data
 - [PhysRevB.107.094305](https://github.com/ToAmano/TiO2_PRB.107.094305)
